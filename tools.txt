@@ -1,0 +1,20 @@
+brew install mongodb
+pip install pymongo
+brew install hbase
+roto 3T
+
+https://mrjbq7.github.io/ta-lib/install.html
+brew install ta-lib
+pip install TA-Lib
+pip install seaborn
+export CPATH=/Library/Developer/CommandLineTools/usr/include/c++/v1
+pip install zipline
+pip install tushare
+
+import tushare
+import zipline
+import seaborn
+import talib
+import pandas
+import vnpy
+
